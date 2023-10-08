@@ -1,0 +1,402 @@
+
+.div1{
+
+
+    width: 200;
+
+    height: 80;
+    background-color: red;
+    position: absolute;
+   
+    animation-name: basta;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+        
+ }
+
+
+ @keyframes basta {
+
+    0%{
+        background-color: yellow;
+        left: 0;
+
+    }
+
+    25%{
+        background-color: yellowgreen;
+        
+    }
+
+    50%{
+        background-color: green;
+        
+    }
+
+    75%{
+
+        background-color: darkgreen;
+    }
+
+    100%{
+
+        background-color: black;
+        left: 1280;
+    }
+}
+
+
+.div2{
+
+
+    width: 200;
+
+    height: 80;
+    background-color: #2600ff;
+    position: absolute;
+    top: 90;
+    left: 1280;
+
+
+    animation-name: basta2;    
+    animation-fill-mode: forwards;
+    animation-delay: 5s;
+    animation-duration: 5s;
+ }
+
+
+ @keyframes basta2 {
+
+    0%{
+        background-color: yellow;
+        left: 1280;
+        
+
+    }
+
+    25%{
+        background-color: yellowgreen;
+        
+    }
+
+    50%{
+        background-color: green;
+        
+    }
+
+    75%{
+
+        background-color: darkgreen;
+    }
+
+    100%{
+
+        background-color: black;
+        left: 0;
+    }
+}
+
+
+.div3{
+
+    width: 200;
+
+    height: 80;
+    background-color: red;
+    position: absolute;
+   
+    animation-name: basta;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+    animation-delay: 10s ;
+    top: 180;
+    
+    
+ }
+
+
+ @keyframes basta3 {
+
+    0%{
+        background-color: yellow;
+        left: 0;
+
+    }
+
+    25%{
+        background-color: yellowgreen;
+        
+    }
+
+    50%{
+        background-color: green;
+        
+    }
+
+    75%{
+
+        background-color: darkgreen;
+    }
+
+    100%{
+
+        background-color: black;
+        left: 1280;
+    }
+}
+
+
+
+.div4{
+
+    width: 200;
+
+    height: 80;
+    top: 270;
+    background-color: #2600ff;
+    position: absolute;
+    left: 1280;
+
+
+    animation-name: basta3;    
+    animation-fill-mode: forwards;
+    animation-delay: 15s;
+    animation-duration: 5s;
+ }
+
+
+ @keyframes basta3 {
+
+    0%{
+        background-color: yellow;
+        left: 1280;
+        
+
+    }
+
+    25%{
+        background-color: yellowgreen;
+        
+    }
+
+    50%{
+        background-color: green;
+        
+    }
+
+    75%{
+
+        background-color: darkgreen;
+    }
+
+    100%{
+
+        background-color: black;
+        left: 0;
+    }
+}
+
+
+
+
+.div5{
+
+    width: 200;
+
+    height: 80;
+    background-color: red;
+    position: absolute;
+   
+    animation-name: basta5;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+    animation-delay: 20s ;
+    top: 360;
+    
+    
+ }
+
+
+ @keyframes basta5 {
+
+    0%{
+        background-color: yellow;
+        left: 0;
+
+    }
+
+    25%{
+        background-color: yellowgreen;
+        
+    }
+
+    50%{
+        background-color: green;
+        
+    }
+
+    75%{
+
+        background-color: darkgreen;
+    }
+
+    100%{
+
+        background-color: black;
+        left: 1280;
+    }
+}
+
+
+
+.div6{
+
+    width: 200;
+
+    height: 80;
+    top: 450;
+    background-color: #2600ff;
+    position: absolute;
+    left: 1280;
+
+
+    animation-name: basta6;    
+    animation-fill-mode: forwards;
+    animation-delay: 25s;
+    animation-duration: 5s;
+ }
+
+
+ @keyframes basta6 {
+
+    0%{
+        background-color: yellow;
+        left: 1280;
+        
+
+    }
+
+    25%{
+        background-color: yellowgreen;
+        
+    }
+
+    50%{
+        background-color: green;
+        
+    }
+
+    75%{
+
+        background-color: darkgreen;
+    }
+
+    100%{
+
+        background-color: black;
+        left: 0;
+    }
+}
+
+
+.div7{
+
+    width: 200;
+
+    height: 80;
+    background-color: red;
+    position: absolute;
+   
+    animation-name: basta7;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+    animation-delay: 30s ;
+    top: 540;
+    
+    
+ }
+
+
+ @keyframes basta7 {
+
+    0%{
+        background-color: yellow;
+        left: 0;
+
+    }
+
+    25%{
+        background-color: yellowgreen;
+        
+    }
+
+    50%{
+        background-color: green;
+        
+    }
+
+    75%{
+
+        background-color: darkgreen;
+    }
+
+    100%{
+
+        background-color: black;
+        left: 1280;
+    }
+}
+
+
+
+.div8{
+
+    width: 200;
+
+    height: 80;
+    top: 630;
+    background-color: #2600ff;
+    position: absolute;
+    left: 1280;
+
+
+    animation-name: basta8;    
+    animation-fill-mode: forwards;
+    animation-delay: 35s;
+    animation-duration: 5s;
+ }
+
+
+ @keyframes basta8 {
+
+    0%{
+        background-color: yellow;
+        left: 1280;
+        
+
+    }
+
+    25%{
+        background-color: yellowgreen;
+        
+    }
+
+    50%{
+        background-color: green;
+        
+    }
+
+    75%{
+
+        background-color: darkgreen;
+    }
+
+    100%{
+
+        background-color: black;
+        left: 0;
+    }
+}
+
+
+
